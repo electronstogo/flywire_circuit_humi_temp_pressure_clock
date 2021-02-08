@@ -1,3 +1,5 @@
+// 2019 - electronstogo
+
 #include "bme280.h"
 
 
